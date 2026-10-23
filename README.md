@@ -94,3 +94,6 @@ revenue.
   immediate email 
   alert delivery in 
   under one second.
+  
+  
+  ![Pipeline Notification Verification](InsightData_Notification_Proof.png)
